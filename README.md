@@ -16,9 +16,22 @@ Flutter applications.
 
 ## Features
 
-- **CosWavePainter**: Custom painter for generating cosine waves with customizable parameters such as amplitude, frequency, and phase.
-- **CosWavePainter2**: Extended version of `CosWavePainter` with additional customization options.
-- **CosWavePainter3**: Further enhancement of `CosWavePainter2` with more customization features.
+### Top-Side Waves
+
+- **CosWaveTopSide**: Creates top-side waves with customizable parameters like amplitude, frequency, and phase. ![Example Image 1](add_image_link1_here)
+- **CosWaveTopSide2**: An extended version with additional customization options. ![Example Image 2](add_image_link2_here)
+- **CosWaveTopSide3**: Further enhanced version with more customizable features. ![Example Image 3](add_image_link3_here)
+
+### Both-Sides Waves
+
+- **CosWaveBothSides**: Creates waves on both sides with customizable parameters. ![Example Image 4](add_image_link4_here)
+- **CosWaveBothSides2**: An extended version with additional customization options. ![Example Image 5](add_image_link5_here)
+- **CosWaveBothSides3**: Further enhanced version with more customizable features. ![Example Image 6](add_image_link6_here)
+
+![Both-Sides Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194601552657260554/Group_1.png?ex=65b0f264&is=659e7d64&hm=da949ddbe2e3d329a9a62261545ccace887c6ecf6a6315ab4cc1154b99f7708a&)
+
+![Top-Side Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194601777572622417/Group_2.png?ex=65b0f29a&is=659e7d9a&hm=38d596763dee4d24f46e63f62d1d2280904c3dd536d88747918599f1ae98628b&)
+
 
 ## Installation
 import
