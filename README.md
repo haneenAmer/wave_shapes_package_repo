@@ -24,9 +24,9 @@ Flutter applications.
 
 ### Both-Sides Waves
 
-- **CosWaveBothSides**: Creates waves on both sides with customizable parameters. ![Example Image 4](add_image_link4_here)
-- **CosWaveBothSides2**: An extended version with additional customization options. ![Example Image 5](add_image_link5_here)
-- **CosWaveBothSides3**: Further enhanced version with more customizable features. ![Example Image 6](add_image_link6_here)
+- **CosWaveBothSides**: Creates waves on both sides with customizable parameters. 
+- **CosWaveBothSides2**: An extended version with additional customization options. 
+- **CosWaveBothSides3**: Further enhanced version with more customizable features. 
 
 ![Both-Sides Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194601552657260554/Group_1.png?ex=65b0f264&is=659e7d64&hm=da949ddbe2e3d329a9a62261545ccace887c6ecf6a6315ab4cc1154b99f7708a&)
 
