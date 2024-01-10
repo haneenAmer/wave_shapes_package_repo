@@ -1,7 +1,7 @@
 name: wave_shape_package
 description: "A Dart package for easily creating customizinable wave shapes using custom painters"
 version: 0.0.1
-homepage:
+homepage: https://github.com/haneenAmer/wave_shapes_package_repo
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
