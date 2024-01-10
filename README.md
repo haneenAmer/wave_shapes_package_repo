@@ -29,9 +29,9 @@ Flutter applications.
 - **CosWaveBothSides2**: An extended version with additional customization options. 
 - **CosWaveBothSides3**: Further enhanced version with more customizable features. 
 
-![Both-Sides Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194717935558725713/IMG_20240110_220200_451.png?ex=65b15ec8&is=659ee9c8&hm=e464b300fe952a54b1448b213f71fc5739ced03c26c1454da697fefd18262e6e&)
+![Both-Sides Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194724209239281914/IMG_20240110_222704_660.png?ex=65b164a0&is=659eefa0&hm=f9f186bbdb96bd1656eca7b2e207f26654e99bf06e5ee7b068af435d741d98ec&)
 
-![Top-Side Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194717936137547806/IMG_20240110_220201_194.png?ex=65b15ec8&is=659ee9c8&hm=30111feaf51f1635d3d9a85200a3b90636370ac4326d5a1da029c6f21bc027b5&)
+![Top-Side Waves](https://cdn.discordapp.com/attachments/1166330871389884477/1194724208941469858/IMG_20240110_222707_001.png?ex=65b164a0&is=659eefa0&hm=a4a843a457189261819a7fea44d7f5f42613bd6caf657e7f82dbf0415c2a9edf&)
 
 
 ## Installation
