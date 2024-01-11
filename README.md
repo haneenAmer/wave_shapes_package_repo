@@ -1,5 +1,15 @@
 
+<<<<<<< HEAD
 # Wave Shape
+=======
+## Contributors
+- Haneen Amer : https://github.com/haneenAmer
+- Zeena Ibrahem : https://github.com/Zeena0-0
+
+
+
+# Wave shpes package
+>>>>>>> 2aa7bebf48a06d8d1f4c531f11b4b392895c2bce
 
 A Dart package for easily creating customizable wave shapes using custom painters.
 
