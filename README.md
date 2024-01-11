@@ -1,8 +1,9 @@
-<!--
-Developer:Haneen Amer , Zeena Ibrahem
-Github:https://github.com/haneenAmer/wave_shapes_package_repo
-Github : https://github.com/Zeena0-0
--->
+
+## Contributors
+- Haneen Amer : https://github.com/haneenAmer
+- Zeena Ibrahem : https://github.com/Zeena0-0
+
+
 
 # Wave Painter
 
