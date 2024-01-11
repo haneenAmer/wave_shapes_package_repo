@@ -1,3 +1,7 @@
+## [0.0.3] - 2024-01-10
+
+- update README 
+
 ## [0.0.2] - 2024-01-10
 
 - update the README by proved images to the waves

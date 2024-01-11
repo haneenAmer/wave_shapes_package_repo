@@ -1,11 +1,5 @@
 
-## Contributors
-- Haneen Amer : https://github.com/haneenAmer
-- Zeena Ibrahem : https://github.com/Zeena0-0
-
-
-
-# Wave Painter
+# Wave Shape
 
 A Dart package for easily creating customizable wave shapes using custom painters.
 
@@ -162,3 +156,6 @@ class HomeScreen extends StatelessWidget {
 }
 
 ```
+## Contributors
+- Haneen Amer : https://github.com/haneenAmer
+- Zeena Ibrahem : https://github.com/Zeena0-0
