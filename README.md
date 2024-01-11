@@ -5,7 +5,7 @@
 
 
 
-# Wave Painter
+# Wave shpes package
 
 A Dart package for easily creating customizable wave shapes using custom painters.
 
